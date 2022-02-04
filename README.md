@@ -3,6 +3,6 @@
 ## List
 
 - .vimrc
-  - [https://github.com/VundleVim/Vundle.vim](Vundle)
+  - [Vundle](https://github.com/VundleVim/Vundle.vim)
 - .zshrc
-  - [https://ohmyz.sh/](oh-my-zsh)
+  - [Oh My Zsh](https://ohmyz.sh/)
