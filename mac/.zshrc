@@ -1,3 +1,0 @@
-# Dotnet CLI
-export DOTNET_CLI_UI_LANGUAGE=en-us
-export DOTNET_CLI_TELEMETRY_OPTOUT=1
